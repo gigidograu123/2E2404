@@ -1,3 +1,7 @@
 body {background-color: brown;}
 
-.cabeçalho {background-color: darkgoldenrod;}
+.cabeçalho {background-color: darkgoldenrod;     
+display: flex;
+justify-content: space-around;}
+
+.alura{width: 15% ;}
