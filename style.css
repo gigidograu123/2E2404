@@ -1,0 +1,17 @@
+boby{background-color: aqua;
+margin: 0%;
+padding: 0%:}
+
+header{background-color: blue;(44,42,165);
+display: flex;
+justify-concent:space-around;}
+
+.imagem{width: 15%;}
+
+.escola{display: flex;
+justify-content: center;
+align-items: center;
+padding: 100px 0;}
+
+.imagem-section{width: 30%;}
+.escola-conteudo{width: 30%;}
